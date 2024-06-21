@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Currency Converter";
+}
+
+<div class="container">
+    <h2>Currency Converter</h2>
+
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["Error"]
+        </div>
+    }
+
+    @if (TempData["Result"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["Result"]
+        </div>
+    }
+
+    <form asp-action="Convert" method="post">
+        <div class="form-group">
+            <label for="amountInDollars">Amount in Dollars (USD):</label>
+            <input type="number" step="0.01" name="amountInDollars" id="amountInDollars" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary mt-2">Convert</button>
+    </form>
+</div>

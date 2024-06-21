@@ -1,0 +1,7 @@
+echo ".vs/" >> .gitignore
+echo "bin/" >> .gitignore
+echo "obj/" >> .gitignore
+echo "*.user" >> .gitignore
+echo "*.suo" >> .gitignore
+echo "*.userosscache" >> .gitignore
+echo "*.sln.docstates" >> .gitignore
