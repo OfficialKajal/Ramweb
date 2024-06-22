@@ -3,18 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC4ACCD-6DCB-4D99-B7D1-2C432D211F4A}|Solution Items{8EC4ACCD-6DCB-4D99-B7D1-2C432D211F4A}|C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC4ACCD-6DCB-4D99-B7D1-2C432D211F4A}|Solution Items{8EC4ACCD-6DCB-4D99-B7D1-2C432D211F4A}|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBDDDC1D-7F89-4AC3-93CD-C02F04A474DB}|RamWeb.csproj|c:\\users\\pc\\desktop\\project\\mvc\\ramweb\\views\\home\\colortheme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBDDDC1D-7F89-4AC3-93CD-C02F04A474DB}|RamWeb.csproj|solutionrelative:views\\home\\colortheme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F4343C7-2B66-4C75-BDDE-D22033A25320}|..\\Ram.DataAcess\\Ram.DataAcess.csproj|c:\\users\\pc\\desktop\\project\\mvc\\ram.dataacess\\repoisitory\\irepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F4343C7-2B66-4C75-BDDE-D22033A25320}|..\\Ram.DataAcess\\Ram.DataAcess.csproj|c:\\users\\pc\\desktop\\project\\mvc\\ram.dataacess\\repoisitory\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F4343C7-2B66-4C75-BDDE-D22033A25320}|..\\Ram.DataAcess\\Ram.DataAcess.csproj|c:\\users\\pc\\desktop\\project\\mvc\\ram.dataacess\\repoisitory\\irepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBDDDC1D-7F89-4AC3-93CD-C02F04A474DB}|RamWeb.csproj|c:\\users\\pc\\desktop\\project\\mvc\\ramweb\\views\\home\\colortheme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBDDDC1D-7F89-4AC3-93CD-C02F04A474DB}|RamWeb.csproj|solutionrelative:views\\home\\colortheme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBDDDC1D-7F89-4AC3-93CD-C02F04A474DB}|RamWeb.csproj|c:\\users\\pc\\desktop\\project\\mvc\\ramweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -116,45 +112,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore.txt",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\.gitignore.txt",
-              "RelativeDocumentMoniker": ".gitignore.txt",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\.gitignore.txt",
-              "RelativeToolTip": ".gitignore.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-06-21T09:12:14.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ColorTheme.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Home\\ColorTheme.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ColorTheme.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Home\\ColorTheme.cshtml",
-              "RelativeToolTip": "Views\\Home\\ColorTheme.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA4AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T08:55:26.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\Ram.DataAcess\\Repoisitory\\Irepository\\Repository.cs",
               "RelativeDocumentMoniker": "..\\Ram.DataAcess\\Repoisitory\\Irepository\\Repository.cs",
@@ -167,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\Ram.DataAcess\\Repoisitory\\Irepository\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\Ram.DataAcess\\Repoisitory\\Irepository\\IRepository.cs",
@@ -180,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -192,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\Ram.DataAcess\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\Ram.DataAcess\\Data\\ApplicationDbContext.cs",
@@ -204,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -216,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "20240514163847_addcategorytabletodb.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\Ram.DataAcess\\Migrations\\20240514163847_addcategorytabletodb.cs",
               "RelativeDocumentMoniker": "..\\Ram.DataAcess\\Migrations\\20240514163847_addcategorytabletodb.cs",
@@ -228,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
@@ -240,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
@@ -252,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Edit.cshtml",
@@ -263,8 +229,24 @@
               "WhenOpened": "2024-05-24T09:16:49.289Z"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "ColorTheme.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Home\\ColorTheme.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ColorTheme.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Home\\ColorTheme.cshtml",
+              "RelativeToolTip": "Views\\Home\\ColorTheme.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:55:26.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
@@ -276,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\Ram.Models\\Models\\Category.cs",
               "RelativeDocumentMoniker": "..\\Ram.Models\\Models\\Category.cs",
@@ -288,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "20240514172709_seedcategorytable.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\Ram.DataAcess\\Migrations\\20240514172709_seedcategorytable.cs",
               "RelativeDocumentMoniker": "..\\Ram.DataAcess\\Migrations\\20240514172709_seedcategorytable.cs",
@@ -300,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\Ram.DataAcess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "..\\Ram.DataAcess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -312,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\Ram.Models\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "..\\Ram.Models\\Models\\ErrorViewModel.cs",
@@ -324,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "20240514163847_addcategorytabletodb.Designer.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\Ram.DataAcess\\Migrations\\20240514163847_addcategorytabletodb.Designer.cs",
               "RelativeDocumentMoniker": "..\\Ram.DataAcess\\Migrations\\20240514163847_addcategorytabletodb.Designer.cs",
@@ -336,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\Ram.Utility\\SD.cs",
               "RelativeDocumentMoniker": "..\\Ram.Utility\\SD.cs",
@@ -348,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -360,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -372,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -384,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "CurrencyConverterController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Controllers\\CurrencyConverterController.cs",
               "RelativeDocumentMoniker": "Controllers\\CurrencyConverterController.cs",
@@ -396,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "RamWeb",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\RamWeb.csproj",
               "RelativeDocumentMoniker": "RamWeb.csproj",
@@ -407,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -419,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -431,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -443,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -455,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "_Notification.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\Shared\\_Notification.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Notification.cshtml",
@@ -467,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\mvc\\RamWeb\\Views\\CurrencyConverter\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\CurrencyConverter\\Index.cshtml",

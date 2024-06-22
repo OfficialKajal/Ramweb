@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RamWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88623a326e3c69187bf5a242bc2e308be0560620")]
 [assembly: System.Reflection.AssemblyProductAttribute("RamWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RamWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
